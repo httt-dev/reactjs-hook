@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import TodoList from './components/TodoList';
+import Home from './components/Home';
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <TodoList />
+        <Home />
         <a
           className="App-link"
           href="https://reactjs.org"
